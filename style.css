@@ -1,0 +1,18 @@
+div {
+	border-style: groove;
+	margin: 5px;
+
+}
+
+#third > p  {
+	 display: none;
+}
+
+h1 
+{
+	display: none;
+}
+#second  #fifth  {
+
+	display: none;
+}
